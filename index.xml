@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retroful Hugo</title>
+    <link>http://yoursite.tld/</link>
+    <description>Recent content on Retroful Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>your email (your name)</managingEditor>
+    <webMaster>your email (your name)</webMaster>
+    <lastBuildDate>Sun, 17 Sep 2017 00:06:41 +0530</lastBuildDate>
+    <atom:link href="http://yoursite.tld/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hi</title>
+      <link>http://yoursite.tld/posts/hi/</link>
+      <pubDate>Sun, 17 Sep 2017 00:06:41 +0530</pubDate>
+      <author>your email (your name)</author>
+      <guid>http://yoursite.tld/posts/hi/</guid>
+      <description>&lt;p&gt;Hi, this is a new post. This site is really wonder. I&amp;rsquo;ve just installed arc theme and paper icons. My desktop is looking great just great. Who is your favoritre hugo theme. My favorite theme is retroful hugo. This is lorem ipes. How to type fast like a pro how to typef ast like ap ro&lt;/p&gt;
+
+&lt;p&gt;How to t&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
